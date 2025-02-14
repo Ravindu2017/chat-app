@@ -9,6 +9,14 @@ export default {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ["light", "dark", "cupcake", "bumblebee", "retro"],
+    themes: [
+      "light",
+      "dark",
+      "cupcake",
+      "bumblebee",
+      "retro",
+      "black",
+      "sunset",
+    ],
   },
 };
