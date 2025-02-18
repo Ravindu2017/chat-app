@@ -1,0 +1,13 @@
+{
+  "name": "react-chat-app",
+  "version": "1.0.0",
+  "description": "creating a chat application following",
+  "main": "index.js",
+  "scripts": {
+    "build": "",
+    "start": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
